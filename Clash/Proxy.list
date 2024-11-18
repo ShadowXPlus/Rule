@@ -3,22 +3,5 @@ DOMAIN-SUFFIX,torrentkitty.tv
 DOMAIN-KEYWORD,torrentkitty
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,pttweb.cc
-DOMAIN-SUFFIX,netsarang.net
-DOMAIN-SUFFIX,spiralabyss.org
 DOMAIN-SUFFIX,tivoservice.com
 DOMAIN-SUFFIX,tivo.com
-# > Steam
-DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steamstatic.com
-# > Google
-DOMAIN-SUFFIX,blog.google // Google Blog
-DOMAIN-SUFFIX,googletraveladservices.com // Google Flights
-DOMAIN,clientservices.googleapis.com
-DOMAIN,dl.google.com
-DOMAIN,dl.l.google.com
-DOMAIN,update.googleapis.com
-DOMAIN,translate.googleapis.com
-# >> Google Fonts API
-DOMAIN,fonts.googleapis.com
-DOMAIN,fonts.gstatic.com
