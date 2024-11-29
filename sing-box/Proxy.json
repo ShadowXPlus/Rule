@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+	      "ehviewer.com",
+	      "torrentkitty.tv",
+	      "plex.tv",
+	      "pttweb.cc",
+	      "tivoservice.com",
+	      "tivo.com",
+	      "bulianglin.com",
+	      "javdb.com",
+	      "naiyovpn.com",
+	      "v2rayssr.com",
+	      "oculus.com"
+	      ]
+    }
+  ]
+}
